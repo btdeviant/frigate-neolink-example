@@ -1,6 +1,6 @@
 services:
   neolink:
-    image: thirtythreeforty/neolink
+    image: quantumentangledandy/neolink:latest
     container_name: neolink
     ports:
       - 8554:8554
